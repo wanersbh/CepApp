@@ -50,7 +50,6 @@ export default function CepApp() {
           keyboardType='numeric'
           maxLength={9}
           ref={inputRef}
-          re
         />
       </View>
 
